@@ -1,0 +1,17 @@
+#001
+
+Voltei com meus estudos em Python.
+
+Compartilharei com todos o que venho aprendendo, desde o infame "Olá mundo" ao script mais robusto que eu conseguir desenvolver.
+
+Estou seguindo as orientações do Gustavo Guanabara lá do curso em vídeo, recomento a todos!
+
+#001-Escrevendo mensagem na tela do usuário.
+
+Script:
+
+# Escrevendo mensagem na tela do usuário
+msg = 'Olá Mundo'
+print(msg)
+
+https://github.com/fdsantos94/Python/tree/main/Exercicios
