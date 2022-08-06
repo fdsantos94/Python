@@ -7,6 +7,6 @@ soma = n1 + n2
 print('A soma dos valores é:', soma)
 print('A soma entre:', n1, 'e', n2, 'vale:', soma)
 
-# Novo print usando Python 3
+# Print usando Python 3
 print('A soma dos valores é: {}'.format(soma))
-print('A soma entre {}, e {} vale: {}'.format(n1, n2, soma))
+print('A soma entre {} e {} vale: {}'.format(n1, n2, soma))
